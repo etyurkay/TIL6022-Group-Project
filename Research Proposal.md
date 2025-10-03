@@ -93,29 +93,26 @@ To address the main research question in a structured way, it is divided into se
   *H1: Network length has a significant influence on the distribution of consignment types.*
 
 * How does the network length influence the modal share?   
+  ***Hypothesis***
+  *H0: There is no correlation between network length and density and rail modal share*
+  *H1: There is a positive correlation between network length and density and rail modal share. A larger, more dense network makes rail a more attractive option.*
   * The rail network length of a country might correlate with the modal share of rail freight usage.   
   * A distinction can be made between overall network length and network density (km of track per km² land area).  
   * Modal share and network length can be accessed from EuroStat.  
   * Data can be used to create a scatter plot of network length and modal share, a simple regression can be performed to see the relationship.
 
-**Hypothesis**
-
-* **H0: There is no correlation between network length and density and rail modal share**  
-* **H1: There is a positive correlation between network length and density and rail modal share. A larger, more dense network makes rail a more attractive option.** 
-
 * Which 5 EU countries have the most train freight?  
-  * rail\_go\_consgmt
 
-* How has the trend of full train consignments changed over time in the top- and bottom-five EU freight countries?  
+* How has the trend of full train consignments changed over time in the top- and bottom-five EU freight countries?
+  ***Hypotheses:***  
+    *H0: There is no significant change in the share of full train consignments over time in the top 5 freight countries.*
+    *H1: There is a significant increase in the share of full train consignments over time in the top 5 freight countries.*  
   * The bottom five countries will not be included in the hypothesis test. These countries will only be observed with charts to understand the trend.  
-    ***Hypotheses:***  
-    ***H0:** There is no significant change in the share of full train consignments over time in the top 5 freight countries.*  
-    ***H1:** There is a significant increase in the share of full train consignments over time in the top 5 freight countries.*
-
+   
 * How do commodity groups (NST 2007 classification) influence the distribution of consignment types?  
   ***Hypotheses:***  
-  ***H0:** Commodity distribution and consignment type are independent.*  
-  ***H1:** Commodity distribution and consignment type are not independent.*
+  *H0: Commodity distribution and consignment type are independent.*  
+  *H1: Commodity distribution and consignment type are not independent.*
 
 # 
 
