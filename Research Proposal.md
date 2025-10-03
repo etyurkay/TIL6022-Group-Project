@@ -1,11 +1,11 @@
 ![](media/image1.png){width="4.569444444444445in"
 height="2.8194444444444446in"}
 
-#  {#section .unnumbered}
+#
 
-# --- {#section-1 .unnumbered}
+# ---
 
-# "Railway freight analysis, regarding consignment types, commodities vs network characteristics" {#railway-freight-analysis-regarding-consignment-types-commodities-vs-network-characteristics .unnumbered}
+# "Railway freight analysis, regarding consignment types, commodities vs network characteristics"
 
 # 
 
@@ -100,6 +100,7 @@ methodology. Finally, the proposal concludes with a list of the
 literature used and the preliminary project planning.
 
 # Research objectives & -questions
+
 The purpose of this chapter is to outline the objectives of the study
 and to present the central research question alongside a set of
 sub-questions. These elements together provide direction for the
@@ -114,7 +115,7 @@ The aim of this report is to answer the following research question:
 consignment type and commodity group, and how does the railway network
 influence these patterns/trends?"***
 
-## 2.2 Sub-questions {#sub-questions .unnumbered}
+## 2.2 Sub-questions
 
 To address the main research question in a structured way, it is divided
 into several sub-questions, each focusing on a specific aspect of
@@ -183,12 +184,12 @@ temporal, thematic, and analytical), specifies key exclusions, addresses
 inherent limitations, and ends with a framing statement that explains
 how the study is bounded.
 
-## 3.1 Defining scope {#defining-scope .unnumbered}
+## 3.1 Defining scope 
 
 The research scope is divided into categories to make clear what is
 included in the study and how it aligns with the research objectives.
 
-### 3.1.1 Geographical scope {#geographical-scope .unnumbered}
+### 3.1.1 Geographical scope 
 
 This thesis focuses on European Union member states, with emphasis on
 the five countries with the highest and the five countries with the
@@ -198,22 +199,22 @@ countries where rail freight is dominant versus countries where it is
 minimal, thereby highlighting structural differences in distribution
 patterns and network influence.
 
-### 3.1.2 Temporal scope {#temporal-scope .unnumbered}
+### 3.1.2 Temporal scope 
 
 The temporal frame extends from 2008 onwards, aligning with the
 availability of harmonized Eurostat datasets under the NST 2007
 commodity classification. Data prior to this period are excluded due to
 inconsistencies in classification and reporting standards.
 
-### 3.1.3 Thematic scope {#thematic-scope .unnumbered}
+### 3.1.3 Thematic scope 
 
 The study is restricted to rail freight consignments, commodity groups,
 and railway network characteristics. These dimensions are chosen as they
 represent measurable determinants of rail freight efficiency.
 
-###  {#section-5 .unnumbered}
+###  
 
-### 3.1.4 Analytical scope {#analytical-scope .unnumbered}
+### 3.1.4 Analytical scope 
 
 The analysis is designed to investigate how rail freight is distributed
 across countries and how the railway network influences these patterns
@@ -243,7 +244,7 @@ to datasets and methods:
 We will go more in depth on the methods in chapter 4, where we will
 extensively analyze our workflow and testing methods.
 
-## 3.2 Exclusions {#exclusions .unnumbered}
+## 3.2 Exclusions
 
 To maintain a clear and focused analysis, several aspects are excluded
 from this study:
@@ -267,7 +268,7 @@ from this study:
   terminal performance, and operational strategies are excluded due to
   data unavailability.
 
-## 3.3 Limitations {#limitations .unnumbered}
+## 3.3 Limitations 
 
 - **Comparability across countries:** Differences in infrastructure,
   reporting standards, and national railway policies may introduce
@@ -295,7 +296,7 @@ This chapter defines the following methods to be applied to establish a
 standard working discipline during coding throughout the project and to
 test the validity of research questions (hypotheses).
 
-# 4.1 Git-hub versioning (VS Code workflow) {#4.1-git-hub-versioning-(vs-code-workflow)} {#git-hub-versioning-vs-code-workflow-4.1-git-hub-versioning-vs-code-workflow .unnumbered}
+# 4.1 Git-hub versioning (VS Code workflow) 
 
 To avoid any confusion or errors in the later stages of the project,
 each team member will follow the same standardized workflow.
@@ -368,7 +369,7 @@ each team member will follow the same standardized workflow.
   - If the decision is unclear: the team will discuss it shortly and
     agree on the correct version before committing.
 
-# 4.2 Hypotheses testing {#hypotheses-testing .unnumbered}
+# 4.2 Hypotheses testing 
 
 For statistical analysis, a hypothesis test will be applied to each
 sub-question. The hypotheses defined in Chapter 2 will be tested using
@@ -410,7 +411,7 @@ as correlation, regression, ANOVA etc.).
 
 # Planning
 
-# Week 1 (05/10/2025 -11/10/2025) : {#week-1-(05/10/2025--11/10/2025)-:} {#week-1-05102025--11102025-week-1-0510202511102025- .unnumbered}
+# Week 1 (05/10/2025 -11/10/2025) :
 
 - Data Collection from various sources
 - Cleaning and pre-processing the data
