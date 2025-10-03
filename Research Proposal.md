@@ -7,7 +7,7 @@ height="2.8194444444444446in"}
 
 # "Railway freight analysis, regarding consignment types, commodities vs network characteristics" {#railway-freight-analysis-regarding-consignment-types-commodities-vs-network-characteristics .unnumbered}
 
-# --- {#section-2 .unnumbered}
+# 
 
 TIL 6020 Design challenge - Research proposal
 
@@ -19,7 +19,7 @@ Pranshu Sharma (6505015)
 
 October 3rd 2025
 
-# Table of Contents {#table-of-contents .unnumbered}
+# Table of Contents
 
 [**Table of Contents 2**](#table-of-contents)
 
@@ -62,7 +62,7 @@ October 3rd 2025
 [**Week 1 (05/10/2025 -11/10/2025) :
 12**](#week-1-(05/10/2025--11/10/2025)-:)
 
-#  {#section-3 .unnumbered}
+#
 
 # Introduction
 
@@ -99,15 +99,14 @@ the scope of the project, while Chapter 4 will outline the initial
 methodology. Finally, the proposal concludes with a list of the
 literature used and the preliminary project planning.
 
-# Research objectives & -questions {#research-objectives-&--questions} {#research-objectives--questions-research-objectives-questions}
-
+# Research objectives & -questions
 The purpose of this chapter is to outline the objectives of the study
 and to present the central research question alongside a set of
 sub-questions. These elements together provide direction for the
 research, ensuring that the analysis remains systematic, coherent, and
 aligned with the overall aim of the thesis.
 
-## 2.1 Research question {#research-question .unnumbered}
+## 2.1 Research question
 
 The aim of this report is to answer the following research question:
 
@@ -174,7 +173,7 @@ used to test validity of these questions.
   *H0: Commodity distribution and consignment type are independent.*  
   *H1: Commodity distribution and consignment type are not independent.*
 
-#  {#section-4 .unnumbered}
+#
 
 # Scope
 
