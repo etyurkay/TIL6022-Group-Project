@@ -84,8 +84,8 @@ To address the main research question in a structured way, it is divided into se
 
 * How do different countries relate to different shares of consignment types?  
   ***Hypotheses:***  
-  ***H0:** There is a **significant relationship** between a country and the distribution of consignment types.*    
-  ***H1:** There is **no significant relationship** between a country and the distribution of consignment types.*  
+  ***H0:** There is **no significant relationship** between a country and the distribution of consignment types.*   
+  ***H1:** There is a **significant relationship** between a country and the distribution of consignment types.*    
     
 * How does network length influence consignment?   
   ***Hypotheses:***  
@@ -93,9 +93,10 @@ To address the main research question in a structured way, it is divided into se
   ***H1:** Network length has a significant influence on the distribution of consignment types.*
 
 * How does the network length influence the modal share? 
- ***Hypotheses:***  
- ***H0:** There is no correlation between network length and density and rail modal share*  
- ***H1:** There is a positive correlation between network length and density and rail modal share. A larger, more dense network makes rail a more attractive option.* 
+
+***Hypotheses:***  
+***H0:** There is no correlation between network length and density and rail modal share*  
+***H1:** There is a positive correlation between network length and density and rail modal share. A larger, more dense network makes rail a more attractive option.* 
 
 * The rail network length of a country might correlate with the modal share of rail freight usage.   
   * A distinction can be made between overall network length and network density (km of track per km² land area).  
@@ -104,14 +105,14 @@ To address the main research question in a structured way, it is divided into se
 
 * Which 5 EU countries have the most train freight?  
   ***Hypotheses:***  
-  ***H0:** There is no significant difference in total rail freight volume among EU countries*.  
-  ***H1:** There is significant difference in total rail freight volume among EU countries,with*   
-  *a distinct group of top performing countries*
-
+  ***H0:** There is no significant difference in total rail freight volume among EU countries.*  
+  ***H1:** There is significant difference in total rail freight volume among EU countries, with a distinct group of top performing countries*  
+    
 * How has the trend of full train consignments changed over time in the top- and bottom-five EU freight countries?
- ***Hypotheses:***  
- ***H0:** There is no significant change in the share of full train consignments over time in the top 5 freight countries.*  
- ***H1:** There is a significant increase in the share of full train consignments over time in the top 5 freight countries.*
+
+***Hypotheses:***  
+***H0:** There is no significant change in the share of full train consignments over time in the top 5 freight countries.*  
+***H1:** There is a significant increase in the share of full train consignments over time in the top 5 freight countries.*
 
 * The bottom five countries will not be included in the hypothesis test. These countries will only be observed with charts to understand the trend.
 
@@ -254,10 +255,14 @@ Additionally, different statistical calculations can be included (such as correl
 
    
 
-   1\.      Department for Energy Security and Net Zero. (2020, 17 July). Greenhouse gas reporting: conversion factors 2020\. [GOV.UK](http://gov.uk).[https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2020](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2020)  
-   2\.      Ritchie, H. (2020, 6 October). Cars, planes, trains: where do CO₂ emissions from transport come from? Our World in Data. [https://ourworldindata.org/co2-emissions-from-transport](https://ourworldindata.org/co2-emissions-from-transport)  
-   3\.      Goods transported by type of consignment-.   [https://ec.europa.eu/eurostat/databrowser/view/rail\_go\_consgmt/default/table?lang=en\&category=rail.rail\_go](https://ec.europa.eu/eurostat/databrowser/view/rail_go_consgmt/default/table?lang=en&category=rail.rail_go)  
-   4\.      Length of electric and non-electric railway lines by nature of transport [https://ec.europa.eu/eurostat/databrowser/view/rail\_if\_line\_na/default/table?lang=en\&category=rail.rail\_i](https://ec.europa.eu/eurostat/databrowser/view/rail_if_line_na/default/table?lang=en&category=rail.rail_i)  (To filter the data, freight only will be selected under the “Traffic and transport measurement” category.)  
+   1\.      Department for Energy Security and Net Zero. (2020, 17 July). Greenhouse gas reporting: conversion factors 2020\. [GOV.UK](http://gov.uk).[https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2020](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2020)
+
+   2\.      Ritchie, H. (2020, 6 October). Cars, planes, trains: where do CO₂ emissions from transport come from? Our World in Data. [https://ourworldindata.org/co2-emissions-from-transport](https://ourworldindata.org/co2-emissions-from-transport)
+
+   3\.      Goods transported by type of consignment-.   [https://ec.europa.eu/eurostat/databrowser/view/rail\_go\_consgmt/default/table?lang=en\&category=rail.rail\_go](https://ec.europa.eu/eurostat/databrowser/view/rail_go_consgmt/default/table?lang=en&category=rail.rail_go)
+
+   4\.      Length of electric and non-electric railway lines by nature of transport [https://ec.europa.eu/eurostat/databrowser/view/rail\_if\_line\_na/default/table?lang=en\&category=rail.rail\_i](https://ec.europa.eu/eurostat/databrowser/view/rail_if_line_na/default/table?lang=en&category=rail.rail_i)  (To filter the data, freight only will be selected under the “Traffic and transport measurement” category.)
+
    5\.     Goods transported by group of goods \- from 2008 onwards based on NST 2007 (rail\_go\_grpgood) [https://ec.europa.eu/eurostat/databrowser/view/rail\_go\_grpgood/default/table?lang=en\&category=rail.rail\_go](https://ec.europa.eu/eurostat/databrowser/view/rail_go_grpgood/default/table?lang=en&category=rail.rail_go)
 
    
