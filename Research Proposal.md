@@ -93,10 +93,9 @@ To address the main research question in a structured way, it is divided into se
   *H1: Network length has a significant influence on the distribution of consignment types.*
 
 * How does the network length influence the modal share? 
-
-***Hypotheses:***  
-*H0: There is no correlation between network length and density and rail modal share*  
-*H1: There is a positive correlation between network length and density and rail modal share. A larger, more dense network makes rail a more attractive option.* 
+ ***Hypotheses:***  
+ *H0: There is no correlation between network length and density and rail modal share*  
+ *H1: There is a positive correlation between network length and density and rail modal share. A larger, more dense network makes rail a more attractive option.* 
 
 * The rail network length of a country might correlate with the modal share of rail freight usage.   
   * A distinction can be made between overall network length and network density (km of track per km² land area).  
