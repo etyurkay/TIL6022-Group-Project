@@ -18,61 +18,45 @@ Pranshu Sharma (6505015)
 
 October 3rd 2025
 
-# Abstract {#abstract}
-
-# Keywords: {#keywords:}
-
-# Rail Freight {#rail-freight}
-
 # Table of Contents {#table-of-contents}
 
-[**Abstract	2**](#abstract)
+[**Table of Contents	2**](#table-of-contents)
 
-[**Keywords:	3**](#keywords:)
+[**1\. Introduction	3**](#introduction)
 
-[**Rail Freight	3**](#rail-freight)
+[**2\. Research objectives & \-questions	4**](#research-objectives-&--questions)
 
-[**Table of Contents	4**](#table-of-contents)
+[2.1 Research question	4](#2.1-research-question)
 
-[**1\. Introduction \[Rico\]	5**](#introduction)
+[2.2 Sub-questions	4](#2.2-sub-questions)
 
-[**2\. Research objectives & \-questions	6**](#research-objectives-&--questions)
+[**3\. Scope	6**](#scope)
 
-[2.1 Research question	6](#2.1-research-question)
+[3.1 Defining scope	6](#3.1-defining-scope)
 
-[2.2 Sub-questions	6](#2.2-sub-questions)
+[3.1.1 Geographical scope	6](#3.1.1-geographical-scope)
 
-[**3\. Scope	8**](#scope)
+[3.1.2 Temporal scope	6](#3.1.2-temporal-scope)
 
-[3.1 Defining scope	8](#3.1-defining-scope)
+[3.1.3 Thematic scope	6](#3.1.3-thematic-scope)
 
-[3.1.1 Geographical scope	8](#3.1.1-geographical-scope)
+[3.1.4 Analytical scope	7](#3.1.4-analytical-scope)
 
-[3.1.2 Temporal scope	8](#3.1.2-temporal-scope)
+[3.2 Exclusions	7](#3.2-exclusions)
 
-[3.1.3 Thematic scope	8](#3.1.3-thematic-scope)
+[3.3 Limitations	8](#3.3-limitations)
 
-[3.1.4 Analytical scope	9](#3.1.4-analytical-scope)
+[**4\. Methodology	9**](#methodology)
 
-[3.2 Exclusions	9](#3.2-exclusions)
+[**4.1 Git-hub versioning (VS Code workflow)	9**](#4.1-git-hub-versioning-\(vs-code-workflow\))
 
-[3.3 Limitations	10](#3.3-limitations)
+[**4.2 Hypotheses testing	10**](#4.2-hypotheses-testing)
 
-[**4\. Methodology \[Ecem\]	11**](#methodology)
+[**5\. Initial literature	11**](#initial-literature)
 
-[**4.1 General rules and agreements	11**](#heading=h.hoqmethnm04f)
+[**6\. Planning	12**](#planning)
 
-[**4.2 Git-hub versioning	11**](#4.1-git-hub-versioning-\(vs-code-workflow\))
-
-[**4.3 Hypotheses testing	11**](#4.2-hypotheses-testing)
-
-[**5\. Initial literature \[Pranshu\]	12**](#initial-literature-[pranshu])
-
-[**6\. Planning \[Youri & Saumitra\]	13**](#planning-[youri-&-saumitra])
-
-[**7\. References	14**](#heading=h.2lbjrihdsbe4)
-
-[**Data	14**](#heading=h.bwonox1hu86d)
+[**Week 1 (05/10/2025 \-11/10/2025) :	12**](#week-1-\(05/10/2025--11/10/2025\)-:)
 
 # 
 
@@ -92,7 +76,7 @@ The purpose of this chapter is to outline the objectives of the study and to pre
 
 The aim of this report is to answer the following research question:
 
-***“How does the distribution of freight get consigned to trains across different European countries, and how do their respective network characteristics influence these patterns?”***
+***"How is rail freight distributed across European countries by consignment type and commodity group, and how does the railway network influence these patterns/trends?"***
 
 ## 2.2 Sub-questions {#2.2-sub-questions}
 
@@ -122,19 +106,16 @@ To address the main research question in a structured way, it is divided into se
 * Which 5 EU countries have the most train freight?  
   * rail\_go\_consgmt
 
-* How has the trend of full train consignments changed over time in the top- and bottom-five EU freight countries? \[Ecem\]  
-  * The bottom five countries will not be included in the hypothesis test. These countries will only be observed with charts to understand the trend.
-
-  ***Hypotheses:***
-
-  ***H0:** There is no significant change in the share of full train consignments over time in the top 5 freight countries.*  
+* How has the trend of full train consignments changed over time in the top- and bottom-five EU freight countries?  
+  * The bottom five countries will not be included in the hypothesis test. These countries will only be observed with charts to understand the trend.  
+    ***Hypotheses:***  
+    ***H0:** There is no significant change in the share of full train consignments over time in the top 5 freight countries.*  
     ***H1:** There is a significant increase in the share of full train consignments over time in the top 5 freight countries.*
 
-* How do commodity groups (NST 2007 classification) influence the distribution of consignment types? \[Ecem\]
-
-***Hypotheses:***  
-***H0:** Commodity distribution and consignment type are independent.*  
-***H1:** Commodity distribution and consignment type are not independent.*
+* How do commodity groups (NST 2007 classification) influence the distribution of consignment types?  
+  ***Hypotheses:***  
+  ***H0:** Commodity distribution and consignment type are independent.*  
+  ***H1:** Commodity distribution and consignment type are not independent.*
 
 # 
 
@@ -266,7 +247,7 @@ Chi-square method (χ² test):
 
 Additionally, different statistical calculations can be included (such as correlation, regression, ANOVA etc.).
 
-5. # Initial literature \[Pranshu\] {#initial-literature-[pranshu]}
+5. # Initial literature {#initial-literature}
 
    
 
@@ -278,9 +259,9 @@ Additionally, different statistical calculations can be included (such as correl
 
    
 
-6. # Planning \[Youri & Saumitra\] {#planning-[youri-&-saumitra]}
+6. # Planning {#planning}
 
-# **Week 1** (05/10/2025 \-11/10/2025) **:**
+# **Week 1** (05/10/2025 \-11/10/2025) **:** {#week-1-(05/10/2025--11/10/2025)-:}
 
 * Data Collection from various sources  
 * Cleaning and pre-processing the data  
@@ -302,7 +283,5 @@ Additionally, different statistical calculations can be included (such as correl
 
 **Important Dates:**  
 19/10/2025- Mid-term check up of project
-
-# 
 
 [image1]: <data:image/png;base64,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S3aIJGIisdxYo0aN1OjRo/WAysm4BLxAi3LChAmqVatWepBInkMsg9Bdd911avjw4XH55cIukrjOgwYN8m1pS6NI5jLw4qbWrVsHtj59+sgicoQTmRUVXeHRSzapF+dsUo99uV21nLZVNZ2UpteZ9JpJg7RG47eophPTVMupaerRL9NVj292qpGLNuqyjmGeYjaAhwqrfstrF49h3nWXLl1U//799cgxXtqVlpaW5cLoBQYgpk+frr8DQorwtkN0n9GKhZjhL/yNaHViwAaj2hBW+C5xjvGC9S7l90eITbxlLVq0yFUOriP8hScLRB8/TnXr1tWRBpiZhGvgvCa4RrgmuBa5iTwvkqnMniMn1Jxth9TI1fvUO8v2qLeXZqgh3/9umf8Pz0z7aNVe9fXWQyrjSNZ0pfMic+fOVT179tRdaAjnY489pud9v/baa2r58uUye64H8aNoWT777LPq8ccf19cEweXdunVT/fr148ANIYTkJSiShBBigSJJCCEWKJKEEGKBIkkIIRYokoQQYoEiSQghFiiShBBigSJJCCEWKJKEEGKBIkkIIRYokoQQYoEiSQghFiiShBBigSJJCCEWKJKEEGKBIkkIIRYokoQQYoEiSQghFiiShBBigSJJCCEWKJKEEGKBIkkIIRYokoQQYoEiSQghFiiShBBigSJJCCEWKJKEEGKBIkkIIRYokoQQYoEiSQghFiiShBBigSJJCCEWKJKEEGKBIkkIIRYokoQQYoEiSQghFiiShBBigSJJCCEWKJKEEGKBIkkIIRYokoQQYoEiSQghFiiShBBigSJJCCEWKJKEEGKBIkkIIRYokoQQYoEiSQghFiiShBBigSJJCCEWki6Sx48fVxs3bvS1vXv3yl0S4pdfflETJ05U69evl5vUr7/+qjZs2KDee+899cwzz6iPP/5YZvHF7/wPHjwYlU9uh8XLgQMH1Isvvqg2b94sN4WGcePGqSFDhsjkUIB7NXr0aNW9e3c1aNAglZ6eLrPo+ybvk83kfc4Kvv/++6RdQ9tzkldJukgeOnRIDRs2TD366KOe9vLLL6tRo0apHTt2yF0DM2PGDNWrVy9VuHBhNX78eLlZzZs3T7Vr1049+OCDqlChQuqcc84JfLzDhw9rcXWe8+uvv67S0tKi8n344YdRebBPvCxdulTly5dPDRw4UG4KDZdddpk6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>
