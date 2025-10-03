@@ -34,7 +34,7 @@ October 3rd 2025
 
 [**Table of Contents	4**](#table-of-contents)
 
-[**1\. Introduction \[Rico\]	5**](#introduction-[rico])
+[**1\. Introduction \[Rico\]	5**](#introduction)
 
 [**2\. Research objectives & \-questions	6**](#research-objectives-&--questions)
 
@@ -58,7 +58,7 @@ October 3rd 2025
 
 [3.3 Limitations	10](#3.3-limitations)
 
-[**4\. Methodology \[Ecem\]	11**](#methodology-[ecem])
+[**4\. Methodology \[Ecem\]	11**](#methodology)
 
 [**4.1 General rules and agreements	11**](#heading=h.hoqmethnm04f)
 
@@ -76,7 +76,7 @@ October 3rd 2025
 
 # 
 
-1. # Introduction \[Rico\] {#introduction-[rico]}
+1. # Introduction {#introduction}
 
 In recent years, increasing attention has been directed toward shifting freight transport from road to rail. The transport sector accounts for around one-fifth of global CO₂ emissions, with road freight alone responsible for nearly 30% of these emissions (Ritchie, 2020). Reducing the environmental impact of road freight is therefore critical to lowering overall freight-related emissions. Rail offers a more sustainable option, emitting up to six times less CO₂ per tonne-kilometer than road transport (Department for Energy Security and Net Zero, 2020). Beyond environmental benefits, shifting freight to rail can also reduce road congestion in high-traffic areas. Given these advantages, it is important to understand the factors that influence rail freight usage in order to develop effective policies that encourage a greater modal shift toward rail.
 
@@ -98,17 +98,17 @@ The aim of this report is to answer the following research question:
 
 To address the main research question in a structured way, it is divided into several sub-questions, each focusing on a specific aspect of freight distribution, commodity and network influence. Hypotheses formed already regarding these sub-questions and statistical methods will be used to test validity of these questions.
 
-* How do different countries relate to different shares of consignment types?\[Saumitra\]  
+* How do different countries relate to different shares of consignment types?  
   ***Hypothesis:***  
   *H0: There is **no significant relationship** between a country and the distribution of consignment types.*   
   *H1: There is a **significant relationship** between a country and the distribution of consignment types.*    
     
-* How does network length influence consignment? \[Youri\]  
+* How does network length influence consignment?   
   ***Hypotheses:***  
   *H0: Network length has no influence on the distribution of consignment types.*  
   *H1: Network length has a significant influence on the distribution of consignment types.*
 
-* How does the network length influence the modal share? \[Rico\]  
+* How does the network length influence the modal share?   
   * The rail network length of a country might correlate with the modal share of rail freight usage.   
   * A distinction can be made between overall network length and network density (km of track per km² land area).  
   * Modal share and network length can be accessed from EuroStat.  
@@ -119,7 +119,7 @@ To address the main research question in a structured way, it is divided into se
 * **H0: There is no correlation between network length and density and rail modal share**  
 * **H1: There is a positive correlation between network length and density and rail modal share. A larger, more dense network makes rail a more attractive option.** 
 
-* Which 5 EU countries have the most train freight? \[Pranshu\]   
+* Which 5 EU countries have the most train freight?  
   * rail\_go\_consgmt
 
 * How has the trend of full train consignments changed over time in the top- and bottom-five EU freight countries? \[Ecem\]  
@@ -206,13 +206,13 @@ To maintain a clear and focused analysis, several aspects are excluded from this
 
 * **Infrastructure indicators:** Network length and electrification are used as proxies for infrastructure quality. These indicators do not capture more complex aspects of network performance, such as capacity utilization, bottlenecks, or service reliability.
 
-4. # Methodology \[Ecem\] {#methodology-[ecem]}
+4. # Methodology  {#methodology}
 
 This chapter defines the following methods to be applied to establish a standard working discipline during coding throughout the project and to test the validity of research questions (hypotheses).
 
 # 4.1 Git-hub versioning (VS Code workflow) {#4.1-git-hub-versioning-(vs-code-workflow)}
 
-	To avoid any confusion or errors in the later stages of the project, each team member will follow the same standardized workflow. 
+To avoid any confusion or errors in the later stages of the project, each team member will follow the same standardized workflow. 
 
 1. **Update the main branch**  
 - At the beginning of each work session, the  **“main”** branch will be updated by opening the Source Control panel in VS Code (the Git icon on the left). At the bottom of the window, the current branch will be displayed as “**main”**  
@@ -255,19 +255,14 @@ This chapter defines the following methods to be applied to establish a standard
 
 # 4.2 Hypotheses testing {#4.2-hypotheses-testing}
 
-# For statistical analysis, a hypothesis test will be applied to each sub-question. The hypotheses defined in Chapter 2 will be tested using the chi-square method.
+For statistical analysis, a hypothesis test will be applied to each sub-question. The hypotheses defined in Chapter 2 will be tested using the chi-square method.  
+Chi-square method (χ² test):
 
-# **Chi-square method (χ² test):**
-
-1. # A contingency table (rows \= commodity groups, columns \= consignment types) will be created or the two data sets will be combined.
-
-2. # A chi-square test will be performed for each sub-question using **scipy.stats.chi2\_contingency**.
-
-3. # The p-value will be interpreted as follows:
-
-- # If **p ≥ 0.05** → H0 cannot be rejected (there is no significant relationship).
-
-- # If **p \< 0.05** → H0 is rejected (there is a significant relationship).
+1. A contingency table (rows \= commodity groups, columns \= consignment types) will be created or the two data sets will be combined.  
+2. A chi-square test will be performed for each sub-question using **scipy.stats.chi2\_contingency**.  
+3. The p-value will be interpreted as follows:  
+- If **p ≥ 0.05** → H0 cannot be rejected (there is no significant relationship).  
+- If **p \< 0.05** → H0 is rejected (there is a significant relationship).
 
 Additionally, different statistical calculations can be included (such as correlation, regression, ANOVA etc.).
 
