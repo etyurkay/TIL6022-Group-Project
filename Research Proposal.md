@@ -84,8 +84,8 @@ To address the main research question in a structured way, it is divided into se
 
 * How do different countries relate to different shares of consignment types?  
   ***Hypotheses:***  
-  *H0: There is **no significant relationship** between a country and the distribution of consignment types.*   
-  *H1: There is a **significant relationship** between a country and the distribution of consignment types.*    
+  *H0:There is a **significant relationship** between a country and the distribution of consignment types.*    
+  *H1: There is **no significant relationship** between a country and the distribution of consignment types.*  
     
 * How does network length influence consignment?   
   ***Hypotheses:***  
@@ -104,11 +104,11 @@ To address the main research question in a structured way, it is divided into se
   * Data can be used to create a scatter plot of network length and modal share, a simple regression can be performed to see the relationship.
 
 * Which 5 EU countries have the most train freight?  
-  ***Hypotheses:***
+  ***Hypotheses:***  
+  **H0:** *There is no significant difference in total rail freight volume among EU countries*.  
+  ***H1:** There is significant difference in total rail freight volume among EU countries,with*   
+  *a distinct group of top performing countries*
 
-            **H0:** *There is no significant difference in total rail freight volume among EU countries*.  
-            ***H1:** There is significant difference in total rail freight volume among EU countries,with*   
-            *a distinct group of top performing countries*  
        
 
 * How has the trend of full train consignments changed over time in the top- and bottom-five EU freight countries?
